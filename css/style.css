@@ -256,10 +256,11 @@ font-size: 2.5rem;
   margin-right: 10px;
   padding-left: 20px;
 }
+}
 h1{
   font-size: 1.5rem;
 }
-}
+
 /* skills */
 #about{
 padding-left: 185px;
@@ -1207,6 +1208,7 @@ border-color: rgba(255,255,255,.8); ;
       height: 1000px;
       margin-top: 1000px;
   }
+}
   @media screen and (max-width: 760px) {
     .form-horizontal {
         margin-top: 1000px;
@@ -1239,7 +1241,7 @@ border-color: rgba(255,255,255,.8); ;
 height: 1090px;
 margin-top: 1428px;
   } 
- 
+}
 .section-header{
   font-size: 50px;
 }
@@ -1274,7 +1276,7 @@ margin-top: 1428px;
   line-height: 55px;
 }
 
-}
+
 
 @media screen and (max-width: 410px) {
 .send-button {
@@ -1310,4 +1312,5 @@ div {
 .pro{
 width: 120%;
 height: 270px;
+margin-left: -30px;
 }
